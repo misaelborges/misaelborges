@@ -1,9 +1,8 @@
-## Olá! Eu sou o Misael Borges Cancelier
+# Olá! Eu sou o Misael Borges Cancelier
 
-
-- 🌱 Estudando Java com Spring Boot
+- ☕ Estudando Java com Spring Boot
+- 📚 Cursando Analise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: mizaelborges2011@gmial.com
-- 📱 Contate-me no número: +55 (48)9 9681-4955
 - 😄 Pronomes: Ele/Dele
 
 <div align="center">
