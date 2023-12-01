@@ -1,14 +1,14 @@
 # Olá! Eu sou o Misael Borges Cancelier
 
 - ☕ Estudando Java com Spring Boot
-- 📚 Cursando Analise e Desenvolvimento de Sistemas
+- 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: mizaelborges2011@gmial.com
 - 😄 Pronomes: Ele/Dele
 
-<div align="center">
+<div align="center" >
   <a href="https://github.com/misaelborges">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=misaelborges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misaelborges&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=misaelborges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misaelborges&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
